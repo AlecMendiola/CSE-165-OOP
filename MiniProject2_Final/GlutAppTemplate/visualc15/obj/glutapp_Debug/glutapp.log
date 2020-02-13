@@ -1,0 +1,7 @@
+﻿  App.cpp
+c:\users\mendi\desktop\cse165\glutapptemplate\glutapptemplate\glutapptemplate\app.cpp(8): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mendi\desktop\cse165\glutapptemplate\glutapptemplate\glutapptemplate\app.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
+  app_main.cpp
+  Generating Code...
+App.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  glutapp.vcxproj -> C:\Users\mendi\Desktop\CSE165\GlutAppTemplate\GlutAppTemplate\GlutAppTemplate\visualc15\obj\glutapp_Debug\glutapp.exe

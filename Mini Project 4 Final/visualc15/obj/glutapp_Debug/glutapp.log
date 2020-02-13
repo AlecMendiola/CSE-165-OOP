@@ -1,0 +1,19 @@
+﻿  App.cpp
+c:\users\mendi\desktop\mini proj 4\app.cpp(29): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\mendi\desktop\mini proj 4\app.cpp(26): warning C4101: 'painting_file': unreferenced local variable
+c:\users\mendi\desktop\mini proj 4\app.cpp(26): warning C4101: 'wall_file': unreferenced local variable
+  app_main.cpp
+  GlutApp.cpp
+c:\users\mendi\desktop\mini proj 4\glutapp.cpp(44): warning C4305: '-=': truncation from 'double' to 'float'
+  RgbImage.cpp
+c:\users\mendi\desktop\mini proj 4\rgbimage.cpp(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\mendi\desktop\mini proj 4\rgbimage.cpp(185): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  TexRect.cpp
+c:\users\mendi\desktop\mini proj 4\texrect.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mendi\desktop\mini proj 4\texrect.cpp(90): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\mendi\desktop\mini proj 4\texrect.cpp(121): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating Code...
+App.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  glutapp.vcxproj -> C:\Users\mendi\Desktop\Mini Proj 4\visualc15\obj\glutapp_Debug\glutapp.exe
